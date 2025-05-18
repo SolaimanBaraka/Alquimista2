@@ -1,0 +1,15 @@
+C:\Users\Solaiman Baraka\Desktop\alquimista22\alquimista22\bin\Debug\net8.0\alquimista22.exe
+C:\Users\Solaiman Baraka\Desktop\alquimista22\alquimista22\bin\Debug\net8.0\alquimista22.deps.json
+C:\Users\Solaiman Baraka\Desktop\alquimista22\alquimista22\bin\Debug\net8.0\alquimista22.runtimeconfig.json
+C:\Users\Solaiman Baraka\Desktop\alquimista22\alquimista22\bin\Debug\net8.0\alquimista22.dll
+C:\Users\Solaiman Baraka\Desktop\alquimista22\alquimista22\bin\Debug\net8.0\alquimista22.pdb
+C:\Users\Solaiman Baraka\Desktop\alquimista22\alquimista22\obj\Debug\net8.0\alquimista22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Solaiman Baraka\Desktop\alquimista22\alquimista22\obj\Debug\net8.0\alquimista22.AssemblyInfoInputs.cache
+C:\Users\Solaiman Baraka\Desktop\alquimista22\alquimista22\obj\Debug\net8.0\alquimista22.AssemblyInfo.cs
+C:\Users\Solaiman Baraka\Desktop\alquimista22\alquimista22\obj\Debug\net8.0\alquimista22.csproj.CoreCompileInputs.cache
+C:\Users\Solaiman Baraka\Desktop\alquimista22\alquimista22\obj\Debug\net8.0\alquimista22.dll
+C:\Users\Solaiman Baraka\Desktop\alquimista22\alquimista22\obj\Debug\net8.0\refint\alquimista22.dll
+C:\Users\Solaiman Baraka\Desktop\alquimista22\alquimista22\obj\Debug\net8.0\alquimista22.pdb
+C:\Users\Solaiman Baraka\Desktop\alquimista22\alquimista22\obj\Debug\net8.0\alquimista22.genruntimeconfig.cache
+C:\Users\Solaiman Baraka\Desktop\alquimista22\alquimista22\obj\Debug\net8.0\ref\alquimista22.dll
+C:\Users\Solaiman Baraka\Desktop\alquimista22\alquimista22\bin\Debug\net8.0\alquimista2.txt
